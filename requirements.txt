@@ -2,5 +2,10 @@ ipykernel
 langchain
 langchain-google-genai
 pinecone-client
+fastapi
+uvicorn[standard]
+gunicorn uvicorn[standard]
+python-multipart
+jinja2
 python-dotenv
 -e .
