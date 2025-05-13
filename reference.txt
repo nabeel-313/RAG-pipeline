@@ -1,0 +1,10 @@
+https://github.com/Coding-Crashkurse/Advanced-RAG
+
+https://github.com/krishnaik06/Updated-Langchain/tree/main/rag
+
+https://github.com/mycloudtutorials/generative-ai-demos/tree/master/bedrock-chat-with-pdf
+
+https://github.com/sunnysavita10/Generative-AI-Indepth-Basic-to-Advance/blob/main/RAG_with_Conversation.ipynb
+
+https://colab.research.google.com/drive/1pat55z_iiLqzInsLi3sWS2wekFCXprQW?usp=sharing
+

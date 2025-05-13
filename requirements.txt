@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain-google-genai
+pinecone-client
+python-dotenv
+-e .
