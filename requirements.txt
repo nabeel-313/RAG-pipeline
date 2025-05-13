@@ -1,11 +1,14 @@
 ipykernel
 langchain
+langchain-community
+pypdf
 langchain-google-genai
 pinecone-client
 fastapi
 uvicorn[standard]
 gunicorn uvicorn[standard]
 python-multipart
+from_root
 jinja2
 python-dotenv
 -e .
