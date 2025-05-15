@@ -36,4 +36,5 @@ from ChatPDF.pipline.data_pipeline import RAGPipeLine
 #     return {"message": "Files uploaded", "files": saved_files}
 
 rag_pipeline = RAGPipeLine()
-rag_pipeline.start_data_loading()
+loaded_data = rag_pipeline.run_pipeline()  
+#chunks = rag_pipeline.start_data_chunking(loaded_data)

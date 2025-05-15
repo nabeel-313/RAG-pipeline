@@ -3,7 +3,7 @@ langchain
 langchain-community
 pypdf
 langchain-google-genai
-pinecone-client
+pinecone
 fastapi
 uvicorn[standard]
 gunicorn uvicorn[standard]
