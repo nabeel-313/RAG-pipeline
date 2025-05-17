@@ -5,3 +5,5 @@ class Config:
     LENGTH_FUNCTION = len
     EMBEDDING_MODEL = 'models/embedding-001'
     PINECONE_INDEX_NAME = 'chatpdf'
+    LLM_MODEL = 'gemini-2.0-flash-lite'
+    TEMP = 0.7

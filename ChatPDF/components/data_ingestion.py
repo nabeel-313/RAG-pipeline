@@ -42,7 +42,7 @@ class DataLoader:
                 folder_path = self.folder_path
                 
             if not os.path.isdir(folder_path):
-                logger.error("Invalid folder path: %s", folder_path)
+                logging.error("Invalid folder path: %s", folder_path)
                 raise RAGException(f"Folder not found: {folder_path}", sys)
             
             docuemnts: List[Document] = []
