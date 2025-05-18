@@ -11,4 +11,8 @@ python-multipart
 from_root
 jinja2
 python-dotenv
+black
+Pylint
+Flake8
+isort
 -e .

@@ -1,6 +1,8 @@
+from dotenv import find_dotenv, load_dotenv
 from pinecone import Pinecone
-from dotenv import load_dotenv, find_dotenv
+
 from ChatPDF.utils.main_utils import Utilities
+
 load_dotenv(find_dotenv(), override=True)
 
 ex = Utilities.get_api_key("PINECODE_API_KEY")
